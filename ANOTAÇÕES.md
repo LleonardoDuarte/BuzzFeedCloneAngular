@@ -9,3 +9,6 @@
 - Para que possamos trazer os dados do nosso banco de dados ficticio deveremos importar o banco de dados dentro do nosso componente, assim conseguimos usar os dados do mesmo.
 
 - Para calcular os resultados iremos usar o reduce, o reduce serve justamente para poder realizar a verificação do array atravez do primeiro elemento quantos elementos possui daquele index e quantos nao são desse index, assim conseguimos realizar o calculo facilmente.
+
+# PARA O SITE FUNCIONAR NO AR
+Primeiro rode o comando ng build --configuration
